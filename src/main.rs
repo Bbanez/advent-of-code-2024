@@ -8,7 +8,7 @@ fn main() {
     day_1::day_1();
     println!("\n\nDay 2");
     day_2::day_2();
-    println!("\n\nDay 2");
+    println!("\n\nDay 3");
     day_3::day_3();
 }
 
